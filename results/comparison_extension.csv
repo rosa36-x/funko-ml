@@ -1,0 +1,10 @@
+model,train_f1,valid_precision,valid_recall,valid_f1,valid_bin3_precision,valid_bin4_precision,valid_bin5_precision,train_valid_gap
+bagged_dt,0.9833,0.4522,0.4764,0.4557,0.3006,0.0,0.0,0.528
+xgboost_shallow,0.7085,0.4483,0.482,0.4537,0.3083,0.0,0.0,0.255
+xgboost,0.9618,0.4519,0.4594,0.4521,0.3289,0.375,0.0,0.51
+xgboost_balanced,0.9294,0.4575,0.4512,0.451,0.2105,0.5625,0.0,0.478
+svm_linear,0.5763,0.4077,0.4819,0.4404,0.0,0.0,0.0,0.136
+svm_rbf,0.5652,0.4027,0.4821,0.4382,0.0,0.0,0.0,0.127
+xgboost_shallow_balanced,0.7025,0.4509,0.4262,0.4335,0.1849,0.1833,0.0,0.269
+svm_custom_kernel,0.5737,0.3916,0.4624,0.4229,0.0,0.0,0.0,0.151
+decision_tree,0.9833,0.4018,0.4011,0.3994,0.1382,0.0,0.25,0.584
