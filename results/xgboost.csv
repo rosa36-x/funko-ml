@@ -1,0 +1,5 @@
+model,train_precision,train_recall,train_f1,train_bin1_precision,train_bin2_precision,train_bin3_precision,train_bin4_precision,train_bin5_precision,valid_precision,valid_recall,valid_f1,valid_bin1_precision,valid_bin2_precision,valid_bin3_precision,valid_bin4_precision,valid_bin5_precision
+xgboost,0.9628,0.9619,0.9618,0.9512,0.963,1.0,0.941,1.0,0.4519,0.4594,0.4521,0.5022,0.4573,0.3289,0.375,0.0
+xgboost_balanced,0.9311,0.9294,0.9294,0.919,0.954,0.8855,0.941,1.0,0.4575,0.4512,0.451,0.5154,0.4827,0.2105,0.5625,0.0
+xgboost_shallow,0.7342,0.7177,0.7085,0.6842,0.7218,0.8915,0.9226,0.75,0.4483,0.482,0.4537,0.5163,0.4641,0.3083,0.0,0.0
+xgboost_shallow_balanced,0.7249,0.7029,0.7025,0.7287,0.7772,0.5504,0.5881,0.9375,0.4509,0.4262,0.4335,0.5608,0.4565,0.1849,0.1833,0.0
