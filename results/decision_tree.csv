@@ -1,2 +1,0 @@
-model,train_precision,train_recall,train_f1,train_bin1_precision,train_bin2_precision,train_bin3_precision,train_bin4_precision,train_bin5_precision,valid_precision,valid_recall,valid_f1,valid_bin1_precision,valid_bin2_precision,valid_bin3_precision,valid_bin4_precision,valid_bin5_precision
-decision_tree,0.984,0.9833,0.9833,0.9606,1.0,1.0,1.0,1.0,0.4018,0.4011,0.3994,0.4817,0.4349,0.1382,0.0,0.25
