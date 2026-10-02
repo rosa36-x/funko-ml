@@ -1,0 +1,2 @@
+model,train_precision,train_recall,train_f1,train_bin1_precision,train_bin2_precision,train_bin3_precision,train_bin4_precision,train_bin5_precision,valid_precision,valid_recall,valid_f1,valid_bin1_precision,valid_bin2_precision,valid_bin3_precision,valid_bin4_precision,valid_bin5_precision
+svm_linear,0.6247,0.6082,0.5763,0.5825,0.6247,0.8818,0.0,0.75,0.4077,0.4819,0.4404,0.4976,0.4818,0.0,0.0,0.0
