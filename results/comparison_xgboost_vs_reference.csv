@@ -2,5 +2,5 @@ reference model,ref_valid_f1,xgboost_valid_f1,diff,verdict,ref_bin4_prec,xgb_bin
 Linear SVM,0.44,0.452,0.012,similar,0.0,0.375
 RBF SVM,0.438,0.452,0.014,similar,0.0,0.375
 Custom-kernel SVM,0.423,0.452,0.029,better,0.0,0.375
-Decision tree,0.399,0.452,0.053,better,0.0,0.375
+Decision tree,0.409,0.452,0.043,better,0.0,0.375
 Bagged DT (100),0.456,0.452,-0.004,similar,0.0,0.375
