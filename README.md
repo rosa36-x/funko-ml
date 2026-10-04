@@ -89,3 +89,5 @@ Always run notebooks with their own folder (`notebooks/`) as the working directo
 | 02 to 07 | the final cells that import `google.colab` and call `files.download` | nothing |
 
 After those edits, run the notebooks top to bottom. In Jupyter, use Kernel > Restart & Run All.
+
+[View ML Writeup (PDF)](writeup/ml_writeup.pdf)
